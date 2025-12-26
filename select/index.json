@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Caramelldansen",
+  "base_artist": "Caramell",
+  "createdAt": "2025-12-26T05:14:51.312579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caramelldansen (Speedycake remix)",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/01_Caramelldansen_(Speedycake_remix)_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Caramelldansen",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/02_Caramelldansen_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Caramelldansen (Swedish)",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/03_Caramelldansen_(Swedish)_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Caramelldansen (Radio Mix)",
+      "artist": "Caramella Girls",
+      "has_synced": false,
+      "path": "select/04_Caramelldansen_(Radio_Mix)_Caramella_Girls.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Caramelldansen (Swedish)",
+      "artist": "Caramella Girls",
+      "has_synced": false,
+      "path": "select/05_Caramelldansen_(Swedish)_Caramella_Girls.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Caramelldansen (radio mix)",
+      "artist": "Caramella Girls",
+      "has_synced": true,
+      "path": "select/06_Caramelldansen_(radio_mix)_Caramella_Girls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Caramelldansen (O-O-Oa-Oa)",
+      "artist": "Caramell",
+      "has_synced": false,
+      "path": "select/07_Caramelldansen_(O-O-Oa-Oa)_Caramell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Caramelldansen",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/08_Caramelldansen_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Caramelldansen",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/09_Caramelldansen_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Caramelldansen - Instrumental",
+      "artist": "Caramella Girls",
+      "has_synced": true,
+      "path": "select/10_Caramelldansen_-_Instrumental_Caramella_Girls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caramelldansen - Instrumental Version",
+      "artist": "Caramella Girls",
+      "has_synced": true,
+      "path": "select/11_Caramelldansen_-_Instrumental_Version_Caramella_Girls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Caramelldansen Español",
+      "artist": "Caramella Girls",
+      "has_synced": false,
+      "path": "select/12_Caramelldansen_Español_Caramella_Girls.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Caramelldansen - English Version",
+      "artist": "RichaadEB",
+      "has_synced": false,
+      "path": "select/13_Caramelldansen_-_English_Version_RichaadEB.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Caramelldansen (English Version)",
+      "artist": "RichaadEB",
+      "has_synced": false,
+      "path": "select/14_Caramelldansen_(English_Version)_RichaadEB.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Caramelldansen",
+      "artist": "Caramell",
+      "has_synced": true,
+      "path": "select/15_Caramelldansen_Caramell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Caramelldansen",
+      "artist": "RichaadEB",
+      "has_synced": false,
+      "path": "select/16_Caramelldansen_RichaadEB.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Caramelldansen",
+      "artist": "Caramell",
+      "has_synced": false,
+      "path": "select/pl_01_Caramelldansen_Caramell.txt"
+    }
+  ]
+}
