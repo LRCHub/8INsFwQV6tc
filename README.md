@@ -1,0 +1,79 @@
+# Caramell – Caramelldansen
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:28.41] Vi undrar är ni redo att vara med
+[00:31.47] Armarna upp nu ska ni få se
+[00:34.12] Kom igen
+[00:36.49] Vem som helst kan vara med
+[00:49.49] 
+[00:39.93] Så rör på era fötter
+[00:41.62] Oa-a-a
+[00:42.87] Och vicka era höfter
+[00:44.39] O-la-la-la
+[00:45.80] Gör som vi
+[00:47.81] Till denna melodi
+[00:56.31] 
+[00:51.32] Dansa med oss
+[00:53.12] Klappa era händer
+[00:54.50] Gör som vi gör
+[00:55.99] Ta några steg åt vänster
+[00:57.56] Lyssna och lär
+[00:58.86] Missa inte chansen
+[01:00.44] Nu är vi här med
+[01:01.81] Caramelldansen
+[01:04.77] O-o-oa-oa...
+[01:10.77] 
+[01:15.11] Det blir en sensation överallt förstås
+[01:18.12] På fester kommer alla att släppa loss
+[01:20.74] Kom igen
+[01:22.94] Nu tar vi stegen om igen
+[01:34.94] 
+[01:26.41] Så rör på era fötter
+[01:28.35] Oa-a-a
+[01:29.68] Och vicka era höfter
+[01:31.03] O-la-la-la
+[01:32.56] Gör som vi
+[01:34.35] Till denna melodi
+[01:42.85] 
+[01:37.39] Så kom och
+[01:38.52] Dansa med oss
+[01:39.76] Klappa era händer
+[01:41.37] Gör som vi gör
+[01:42.55] Ta några steg åt vänster
+[01:44.26] Lyssna och lär
+[01:45.50] Missa inte chansen
+[01:47.07] Nu är vi här med
+[01:48.43] Caramelldansen
+[01:55.43] 
+[02:01.70] Dansa med oss
+[02:03.17] Klappa era händer
+[02:04.65] Gör som vi gör
+[02:05.92] Ta några steg åt vänster
+[02:07.60] Lyssna och lär
+[02:08.85] Missa inte chansen
+[02:10.42] Nu är vi här med
+[02:11.87] Caramelldansen
+[02:18.87] 
+[02:16.42] Oa-a-a-a...
+[02:21.92] 
+[02:27.67] Sou jou kou
+[02:33.17] 
+[02:28.28] Dansa med oss
+[02:29.39] Klappa era händer
+[02:30.97] Gör som vi gör
+[02:32.21] Ta några steg åt vänster
+[02:33.83] Lyssna och lär
+[02:35.21] Missa inte chansen
+[02:36.71] Nu är vi här med
+[02:38.18] Caramelldansen
+[02:39.91] Dansa med oss
+[02:41.15] Klappa era händer
+[02:42.65] Gör som vi gör
+[02:43.95] Ta några steg åt vänster
+[02:45.35] Lyssna och lär
+[02:46.78] Missa inte chansen
+[02:48.22] Nu är vi här med
+[02:49.82] Caramelldansen!
+```
